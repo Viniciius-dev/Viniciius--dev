@@ -4,7 +4,7 @@ Técnico em Eletroeletrônica formado pelo IFTM e cursando Análise e Desenvolvi
 
 
 ## 🌐 Socials:
-[![LinkedIn](https://www.linkedin.com/in/vin%C3%ADciuscastroalves1a9691358?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)](https://linkedin.com/in/Vinicius Castro Alves) [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](https://mastodon.social/@Vinicius Castro Alves) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:viniciuscasalves654@gmail.com) 
+[![LinkedIn]()](https://linkedin.com/in/Vinicius Castro Alves) [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](https://mastodon.social/@Vinicius Castro Alves) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:viniciuscasalves654@gmail.com) 
 
 # 💻 Tech Stack:
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
